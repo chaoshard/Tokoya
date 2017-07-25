@@ -13,6 +13,8 @@
 	<link href="<c:url value="/css/main/custom.css"/>" rel="stylesheet">
 	<link href="//code.jquery.com/ui/1.12.0/themes/base/jquery-ui.css" rel="stylesheet">
 	<link href="<c:url value="/css/jquery.datetimepicker.css"/>" rel="stylesheet"/>	
+	<link href="<c:url value="/vendor/iCheck/skins/flat/green.css"/>" rel="stylesheet"/>
+	<link rel="stylesheet" href="<c:url value="/css/jquery-ui-1.10.4.custom.css"/>" />
 	
 	<!-- Datatables -->
     <link href="<c:url value="/vendor/datatables.net-bs/css/dataTables.bootstrap.min.css"/>" rel="stylesheet">
